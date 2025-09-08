@@ -68,3 +68,6 @@ BrightXR transforms education into an **immersive, intelligent, and fun ecosyste
 ---
 
 ## 📂 Repository Structure
+docs/ - All files and pdfs are here
+demo-videos/ - output videos are here 
+
