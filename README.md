@@ -53,11 +53,8 @@ BrightXR transforms education into an **immersive, intelligent, and fun ecosyste
 
 ---
 
-## 🖥️ Demo Videos
-🎥 [Main Demo Video](https://drive.google.com/) *(Add your Drive/YouTube link)*  
-🎥 [VR Force Simulation](https://drive.google.com/)  
-🎥 [AR Airplane & Rocket Tour](https://drive.google.com/)  
-🎥 [3D Coloring Demo](https://drive.google.com/)  
+## 🖥️ Demo Videos for All
+🎥 [https://drive.google.com/drive/folders/1mXiaHlk1mxjA7BaITUptGOerQR-TFrcu?usp=sharing]  
 
 ---
 
