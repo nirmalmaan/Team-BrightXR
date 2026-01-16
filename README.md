@@ -1,5 +1,3 @@
-Here is a professional, clean, and industry-standard version of the README file. All emojis have been removed, and the formatting has been standardized for a professional repository or documentation environment.
-
 BrightXR: AI + XR Immersive Education Platform
 BrightXR is an AI-driven immersive education technology platform that transforms traditional rote-based learning into practical, interactive, and experience-based education using Augmented Reality (AR), Virtual Reality (VR), deterministic AI tutorship, and gamified learning systems.
 
